@@ -1,1 +1,2 @@
 # McDonaldsWiki
+just a wiki
